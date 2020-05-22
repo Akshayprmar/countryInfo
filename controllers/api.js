@@ -5,7 +5,7 @@ var countries = require('../resources/countriesV1');
 
 var notFound = function(res) {
   res.json(404, {
-    message: "Sorry, that page does not exist",
+    message: "Sorry, Data does not exist",
     code: 34
   })
 }

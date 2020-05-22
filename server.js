@@ -81,7 +81,7 @@ app.use(function(err, req, res, next){
 app.use(function(req, res, next){
   res.status(404).json({
     url: req.originalUrl,
-    message: "Sorry, that page does not exist",
+    message: "Sorry, Data does not exist",
     code: 34
   })
 })
