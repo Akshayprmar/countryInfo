@@ -36,7 +36,7 @@
     "should": "^13.2.3",
     "static-favicon": "^2.0.0-alpha",
     "statuses": "^1.2.0",
-    "validator": "^3.27.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "supertest": "^4.0.2"
