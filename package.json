@@ -28,7 +28,7 @@
     "lodash": ">=4.17.12",
     "method-override": "^2.3.10",
     "mocha": "^7.1.2",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "proxy-addr": "^1.0.4",
     "request": "^2.88.2",
